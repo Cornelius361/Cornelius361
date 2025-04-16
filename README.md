@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cornelius361
+- 👋 Hi, I’m @Cornelius
 - 👀 I’m interested in ... hacking 
 - 🌱 I’m currently learning ... Diploma in iT
 - 💞️ I’m looking to collaborate on ...
